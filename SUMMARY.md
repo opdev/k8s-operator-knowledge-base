@@ -12,9 +12,6 @@
     * [Optimistic Concurrency](1.-introduction/controllers-and-operators/optimistic-concurrency.md)
     * [Operators](1.-introduction/controllers-and-operators/operators.md)
 * [2. Kubernetes API Basics](2.-kubernetes-api-basics.md)
-* [Meeting Notes](meeting-notes/README.md)
-  * [Week 1](meeting-notes/week-1.md)
-  * [Week 2](meeting-notes/week-2.md)
 
 ## Minutes
 
