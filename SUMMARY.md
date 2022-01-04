@@ -15,3 +15,8 @@
 * [Meeting Notes](meeting-notes/README.md)
   * [Week 1](meeting-notes/week-1.md)
   * [Week 2](meeting-notes/week-2.md)
+
+## Minutes
+
+* [Week 1](minutes/week-1.md)
+* [Week 2](minutes/week-2.md)
