@@ -1,14 +1,3 @@
 # Table of contents
 
-* [1. Introduction](README.md)
-  * [What Does Programming Kubernetes Mean?](1.-introduction/what-does-programming-kubernetes-mean.md)
-  * [A Motivational Example](1.-introduction/a-motivational-example.md)
-  * [Extension Patterns](1.-introduction/extension-patterns.md)
-  * [Controllers and Operators](1.-introduction/controllers-and-operators/README.md)
-    * [The Control Loop](1.-introduction/controllers-and-operators/the-control-loop.md)
-    * [Events](1.-introduction/controllers-and-operators/events.md)
-    * [Edge- Versus Level-Driven Triggers](1.-introduction/controllers-and-operators/edge-versus-level-driven-triggers.md)
-    * [Changing Cluster Objects or the External World](1.-introduction/controllers-and-operators/changing-cluster-objects-or-the-external-world.md)
-    * [Optimistic Concurrency](1.-introduction/controllers-and-operators/optimistic-concurrency.md)
-    * [Operators](1.-introduction/controllers-and-operators/operators.md)
-* [2. Kubernetes API Basics](2.-kubernetes-api-basics.md)
+* [Page 1](README.md)
