@@ -1,6 +1,5 @@
 ---
-description: 'Notes :'
+RedHat Ecosystem Experience Engineering Team 
 ---
 
-# Week 1
 
