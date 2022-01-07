@@ -1,6 +1,2 @@
-# Week 1
-
-Review Chapter 1 Introduction -
-
-testing
+# Week 2
 
