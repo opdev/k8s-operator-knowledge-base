@@ -1,5 +1,7 @@
 # Table of contents
 
+* [README](README.md)
+
 ## Minutes
 
 * [Week 1](minutes/week-1.md)
@@ -11,7 +13,7 @@
 
 ## Programming Kubernetes FAQ
 
-* [Chapter 1.  Introduction](programming-kubernetes-faq/chapter-1.-introduction/README.md)
+* [Chapter 1. Introduction](programming-kubernetes-faq/chapter-1.-introduction/README.md)
   * [What Does Programming Kubernetes Mean?](programming-kubernetes-faq/chapter-1.-introduction/what-does-programming-kubernetes-mean.md)
   * [A Motivational Example](programming-kubernetes-faq/chapter-1.-introduction/a-motivational-example.md)
   * [Extension Patterns](programming-kubernetes-faq/chapter-1.-introduction/extension-patterns.md)
