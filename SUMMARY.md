@@ -2,7 +2,8 @@
 
 ## Minutes
 
-* [Week 2](README.md)
+* [Week 1](README.md)
+* [Week 2](minutes/week-2.md)
 
 ## Openshift Certification FAQ
 
