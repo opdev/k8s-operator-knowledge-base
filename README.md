@@ -1,7 +1,9 @@
----
-description: Based on the book, Programming Kubernetes
----
+# Certification process
 
-# 1.  Introduction
+Question:&#x20;
 
-Can be downloaded from here, [https://www.yumpu.com/xx/document/view/64279293/pdf-free-programming-kubernetes-developing-cloud-native-applications-by-michael-hausenblas-ebook-download](https://www.yumpu.com/xx/document/view/64279293/pdf-free-programming-kubernetes-developing-cloud-native-applications-by-michael-hausenblas-ebook-download)
+what part of the certification process requires `relatedImages` to be present in the `CSV` even when an operator does not have other images that it relies on (other than its own container image? As far as I know `preflight` doesn’t check for this nor does `operator-sdk validate bundle`
+
+Answer:&#x20;
+
+The Pipeline checks for it. It's a hard requirement for marketplace.
