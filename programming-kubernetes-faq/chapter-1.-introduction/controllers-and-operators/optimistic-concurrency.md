@@ -8,7 +8,7 @@ Conflict errors are totally normal in controllers. Always expect them and handle
 
 Optimistic concurrency is a perfect fit for level-based logic, because by using level-based logic you can just rerun the control loop. Another run of that loop will automatically undo optimistic changes from the previous failed optimistic attempt, and it will try to update the world to the latest state.
 
-**OCC** - It assumes that concurrent transactions of multiple users will not affect each other during processing, and each transaction can process its own data without requesting a lock. Before committing the data update, each transaction will first check whether other transactions have modified the data after the transaction reads the data. If other transactions are updated, the transaction that is being committed will be rolled back.
+**Optimistic concurrency control (OCC)** - It assumes that concurrent transactions of multiple users will not affect each other during processing, and each transaction can process its own data without requesting a lock. Before committing the data update, each transaction will first check whether other transactions have modified the data after the transaction reads the data. If other transactions are updated, the transaction that is being committed will be rolled back.
 
 {% embed url="https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/optimistic-concurrency" %}
 
