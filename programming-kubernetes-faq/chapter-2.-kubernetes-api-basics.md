@@ -34,5 +34,5 @@ In the example above, the kind for the object, bestie-application-deployment-786
 
 What is kubectl proxy ?
 
-
+This command proxies the Kubernetes API to our local machine and also takes care of the authentication and authorization bits. It allows us to directly issue requests via HTTP and receive JSON payloads in return.
 
