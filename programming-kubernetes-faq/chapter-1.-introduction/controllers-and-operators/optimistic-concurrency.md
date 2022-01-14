@@ -16,6 +16,8 @@ Optimistic concurrency is a perfect fit for level-based logic, because by using 
 
 Kubernetes uses the Optimistic Concurrency Control or OCC. It is a method where the piece of data includes a version number. Every time the data is updated, the version number increases.
 
+Example:
+
 Imagine your client is not the only actor in the cluster that modifies a pod. There is “another actor, namely the kubelet, that constantly modifies some fields because a container is constantly crashing. Now your controller reads the pod object’s latest state like so:&#x20;
 
 kind: Pod&#x20;
