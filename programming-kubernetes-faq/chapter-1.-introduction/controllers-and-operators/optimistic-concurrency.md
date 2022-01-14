@@ -12,3 +12,4 @@ Optimistic concurrency is a perfect fit for level-based logic, because by using 
 
 ## FAQ
 
+**How does optimistic concurrency work in Kubernetes ?**
