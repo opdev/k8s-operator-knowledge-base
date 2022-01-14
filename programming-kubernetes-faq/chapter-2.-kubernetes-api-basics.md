@@ -12,7 +12,7 @@ In this example, the resource is pod.
 
 API **objects** are persistent entities in the Kubernetes system.
 
-In this example, the object is bestie-application-deployment-7867cdd587-w8cjb, and mysql-5554d8b57b-mrznr.
+In this example, the objects are bestie-application-deployment-7867cdd587-w8cjb, and mysql-5554d8b57b-mrznr.
 
 \----------------------
 
