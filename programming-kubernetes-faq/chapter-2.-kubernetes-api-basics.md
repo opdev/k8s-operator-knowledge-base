@@ -29,3 +29,10 @@ mysql-5554d8b57b-mrznr                           1/1     Running   0          17
 **Kind** is the type of entity.
 
 In the example above, the kind for the object, bestie-application-deployment-7867cdd587-w8cjb,  is Pod.
+
+## FAQ
+
+What is kubectl proxy ?
+
+
+
