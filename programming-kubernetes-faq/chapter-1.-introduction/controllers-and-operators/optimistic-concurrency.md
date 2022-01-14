@@ -14,7 +14,7 @@ Optimistic concurrency is a perfect fit for level-based logic, because by using 
 
 **How does optimistic concurrency work in Kubernetes ?**
 
-Optimistic concurrency control (sometimes referred to as optimistic locking) is a method where instead of locking a piece of data and preventing it from being read or updated while the lock is in place, the piece of data includes a version number. Every time the data is updated, the version number increases.
+It is done by version control. Optimistic concurrency control is a method where instead of locking a piece of data and preventing it from being read or updated while the lock is in place, the piece of data includes a version number. Every time the data is updated, the version number increases.
 
 Imagine your client is not the only actor in the cluster that modifies a pod. There is “another actor, namely the kubelet, that constantly modifies some fields because a container is constantly crashing. Now your controller reads the pod object’s latest state like so:&#x20;
 
