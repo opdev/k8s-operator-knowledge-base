@@ -36,3 +36,7 @@ What is kubectl proxy ?
 
 This command proxies the Kubernetes API to our local machine and also takes care of the authentication and authorization bits. It allows us to directly issue requests via HTTP and receive JSON payloads in return.
 
+What is Object Schema validation ?
+
+{% embed url="https://spec.openapis.org/oas/v3.1.0" %}
+
